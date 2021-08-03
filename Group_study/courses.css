@@ -1,0 +1,39 @@
+.java, .js, .DAA, .html, .css{
+    margin-left: 10%;
+    margin-right: 12%;
+}
+.common{
+    text-align: center;
+    margin: 1%;
+}
+.card{
+    
+    display: flex;
+    background-color: rgb(112, 235, 235);
+}
+ 
+ img{ 
+     border-left: 5px solid white;
+    width: 200px;
+    height: 160px;
+    border-radius: 15px;
+} 
+
+
+ .common:hover{
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out; 
+    transform: scale(1.2);
+   
+ }
+
+ h3{
+     border: 3px solid white;
+     border-radius:8px;
+ }
+ a{
+     color: blue;
+ }
+ h1{
+     color:rgb(150, 7, 179);
+ }

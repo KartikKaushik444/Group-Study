@@ -1,0 +1,31 @@
+.mentor-details, .about-project, .group-details{
+    margin-left: 10%;
+    padding: 2%;
+    display: flex;
+    border-left: 8px solid red;
+    background-color: rgb(1, 9, 14);
+    color: white;
+}
+
+.sub-details{
+    border-left: 2px solid rgb(103, 12, 189);
+    margin-left: 5%;
+    padding: 2%;
+}
+.photo{
+    width: 20%;
+}
+
+.harsh, .kartik{
+    width: 30%;
+}
+
+a{
+    
+    color:rgb(212, 248, 10)
+}
+i, li{
+    color:rgb(236, 240, 29);
+}
+ 
+ 
